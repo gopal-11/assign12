@@ -1,0 +1,16 @@
+.image-container {
+  margin-top: 95px;
+}
+
+.items {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.item {
+  width: 100%;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
